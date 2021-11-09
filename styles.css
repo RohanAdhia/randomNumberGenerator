@@ -1,0 +1,65 @@
+body {
+  background-color: #6166B3;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+}
+
+.title {
+  font-size: 3em;
+  font-family: 'Pacifico', cursive;
+}
+
+.randomNumber {
+  font-size: 4em;
+  color: #17D7A0;
+  margin: 30px;
+}
+
+.Btn {
+  background-color: #6166B3;
+  border: 2px solid black;
+  color: black;
+  padding: 15px 32px;
+  /* padding: 10px 22px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin-bottom: 25px;
+  margin-top: 0;
+}
+
+.Btn:hover {
+  background-color: #17D7A0;
+}
+
+.main-box {
+  border: 2px solid white;
+  padding: 5px;
+  margin: 0;
+}
+
+.textBox {
+  padding: 0;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  height: 30px;
+  position: relative;
+  left: 0;
+  outline: none;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0, 0, 0, .15);
+  background-color: white;
+  font-size: 16px;
+  display: none;
+}
+
+.footer-txt {
+  margin-top: 1rem;
+  text-align: center;
+  color: #17D7A0;
+  font-size: 1rem;
+}
