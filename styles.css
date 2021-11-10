@@ -1,26 +1,41 @@
 body {
-  background-color: #6166B3;
+  /* background-color: #6166B3; */
+  background-color: #F0E9D2;
+  /* background-color: #678983; */
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   padding: 50px;
   margin: 0;
 }
 
+h2 {
+  color : #678983;
+}
+
 .title {
-  font-size: 3em;
+  /* font-size: 3em; */
+  font-size: 3.5rem;
+  color: #678983;
   font-family: 'Pacifico', cursive;
 }
 
 .randomNumber {
-  font-size: 4em;
-  color: #17D7A0;
+  /* font-size: 4em; */
+  font-size: 2.5rem;
+  /* color: #17D7A0; */
+  /* color: #F0E9D2; */
+  /* color :#678983; */
+  color: :#181D31;
   margin: 30px;
 }
 
 .Btn {
-  background-color: #6166B3;
+  /* background-color: #6166B3; */
+  /* background-color: #678983; */
+  background-color: #E6DDC4;
   border: 2px solid black;
-  color: black;
+  /* color: black; */
+  color: #678983;
   padding: 15px 32px;
   /* padding: 10px 22px; */
   text-align: center;
@@ -33,11 +48,16 @@ body {
 }
 
 .Btn:hover {
-  background-color: #17D7A0;
+  /* background-color: #17D7A0; */
+  /* background-color: #E6DDC4; */
+  background-color: #678983;
+  color: #F0E9D2;
+
 }
 
 .main-box {
-  border: 2px solid white;
+  /* border: 2px solid white; */
+  border: 2px solid #678983;
   padding: 5px;
   margin: 0;
 }
@@ -60,6 +80,8 @@ body {
 .footer-txt {
   margin-top: 1rem;
   text-align: center;
-  color: #17D7A0;
+  /* color: #17D7A0; */
+  /* color: #F0E9D2; */
+  color : #678983;
   font-size: 1rem;
 }
